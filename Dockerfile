@@ -19,7 +19,7 @@ LABEL \
     com.ml2grow.license="Apache License 2.0" \
     com.ml2grow.url="https://www.ml2grow.com" \
     com.ml2grow.vcs-type="Git" \
-    com.ml2grow.vcs-url="https://github.com/ml2grow/docker-tensorflow-alpine"
+    com.ml2grow.vcs-url="https://github.com/ml2grow/tensorflow-alpine"
 
 
 ENV JAVA_HOME /usr/lib/jvm/java-1.8-openjdk
